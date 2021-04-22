@@ -51,6 +51,7 @@ instagram: aleskadomingues
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
+whatsapp: https:/wa.me/message/D4ZOER5L3KJ4K1
 
 authors:
   johndoe:
@@ -83,7 +84,7 @@ pagination:
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
@@ -123,7 +124,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url:
+  base_url: https://github.com
 
 compress_html:
   ignore:
