@@ -57,8 +57,8 @@ authors:
   johndoe:
     name: Aleska Domingues
     bio: Saúde e Beleza.
-    external-image: false
-    picture: assets/images/profile.jpg
+    external-image: true
+    picture: https://instagram.fpoa27-1.fna.fbcdn.net/v/t51.2885-19/s320x320/172954397_464421408223551_5590753202001704014_n.jpg?tp=1&_nc_ht=instagram.fpoa27-1.fna.fbcdn.net&_nc_ohc=7WpUgRb6cZMAX_VF4tb&edm=ABfd0MgAAAAA&ccb=7-4&oh=7828297afe280f5155b44051eb3ad1c1&oe=60A5C157&_nc_sid=7bff83
 #    twitter: 
 #  jamesfoster:
 #    name: James Foster
