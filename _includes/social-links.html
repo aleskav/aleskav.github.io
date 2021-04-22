@@ -100,6 +100,12 @@
             <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.whatsapp %}
+        <a class="link" data-title="wa.me/message/{{ site.whatsapp }}" href="https://wa.me/message/D4ZOER5L3KJ4K1" target="_blank">
+            <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
+        </a>
+    {% endif %}
 
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
