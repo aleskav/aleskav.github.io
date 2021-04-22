@@ -7,8 +7,9 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://instagram.fpoa27-1.fna.fbcdn.net/v/t51.2885-19/s320x320/172954397_464421408223551_5590753202001704014_n.jpg?tp=1&_nc_ht=instagram.fpoa27-1.fna.fbcdn.net&_nc_ohc=7WpUgRb6cZMAX_VF4tb&edm=ABfd0MgAAAAA&ccb=7-4&oh=7828297afe280f5155b44051eb3ad1c1&oe=60A5C157&_nc_sid=7bff83
+external-image: false
+#picture: https://instagram.fpoa27-1.fna.fbcdn.net/v/t51.2885-19/s320x320/172954397_464421408223551_5590753202001704014_n.jpg?tp=1&_nc_ht=instagram.fpoa27-1.fna.fbcdn.net&_nc_ohc=7WpUgRb6cZMAX_VF4tb&edm=ABfd0MgAAAAA&ccb=7-4&oh=7828297afe280f5155b44051eb3ad1c1&oe=60A5C157&_nc_sid=7bff83
+picture: assets/images/logo.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
